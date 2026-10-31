@@ -1,77 +1,99 @@
 {
- "updated": "2026-11-01T04:30:00+05:30",
+ "updated": "2026-11-01T04:50:00+05:30",
+ "handles": [
+  "@HiAlphaTerminal",
+  "@TheMrX"
+ ],
  "items": [
   {
-   "project": "Quip Network",
-   "handle": "@quipnetwork",
-   "date": "2026-10-30T20:55:46Z",
-   "category": "Airdrop",
-   "summary": "Quests and Mindshare campaigns end Nov 2 at 13:00 UTC, together with the final points distribution.",
-   "url": "https://x.com/quipnetwork/status/2116272874235609120"
+   "handle": "@TheMrX",
+   "date": "2026-10-31T19:56:52Z",
+   "summary": "The Fed held rates, $BTC barely moved, then dumped 5%. Was it priced in? A @tryquantio Pro breakdown.",
+   "url": "https://x.com/TheMrX/status/2116620440525537580"
   },
   {
-   "project": "Quip Network",
-   "handle": "@quipnetwork",
-   "date": "2026-10-30T18:45:46Z",
-   "category": "Update",
-   "summary": "4,000 sponsored Quantum Echoes reveals refill on Nov 1. The account creation fee is waived through Nov 8.",
-   "url": "https://x.com/quipnetwork/status/2116240160958697649"
+   "handle": "@TheMrX",
+   "date": "2026-10-31T13:30:32Z",
+   "summary": "Collab with @beepzfun: 15 GTD spots for the community. Free mint on Robinhood Chain.",
+   "url": "https://x.com/TheMrX/status/2116523215254360389"
   },
   {
-   "project": "Variational",
-   "handle": "@variational_io",
-   "date": "2026-10-31T13:01:03Z",
-   "category": "Update",
-   "summary": "The Variational protocol treasury now holds more than $12M in USDC.",
-   "url": "https://x.com/variational_io/status/2116515795438387204"
+   "handle": "@TheMrX",
+   "date": "2026-10-31T09:58:17Z",
+   "summary": "The timing this week: US Treasury sanctions on North Korea's fake IT worker schemes, then ~$6.3B leaves Binance.",
+   "url": "https://x.com/TheMrX/status/2116469801174655052"
   },
   {
-   "project": "Variational",
-   "handle": "@variational_io",
-   "date": "2026-10-30T16:46:14Z",
-   "category": "Update",
-   "summary": "Biweekly update: mainnet v0.38.2 is out and trading API preparations are underway.",
-   "url": "https://x.com/variational_io/status/2116210079758524489"
+   "handle": "@TheMrX",
+   "date": "2026-10-31T09:06:18Z",
+   "summary": "Binance withdrawals paused after the $6.3B hack. Money that moves when you need it: USDT → SWIFT.",
+   "url": "https://x.com/TheMrX/status/2116456718377120158"
   },
   {
-   "project": "Replica (Renya)",
-   "handle": "@cryptorenya",
-   "date": "2026-10-31T13:10:09Z",
-   "category": "Mint",
-   "summary": "Replica mints on OpenSea at 8am New York time on Nov 1.",
-   "url": "https://x.com/cryptorenya/status/2116518085393895911"
+   "handle": "@TheMrX",
+   "date": "2026-10-30T18:54:51Z",
+   "summary": "$BTC dumped 4.8% while funding barely moved. Funding rates explained for beginners with @tryquantio Pro.",
+   "url": "https://x.com/TheMrX/status/2116242445164044657"
   },
   {
-   "project": "NORKS (Oveck)",
-   "handle": "@oveck",
-   "date": "2026-10-31T16:09:22Z",
-   "category": "Mint",
-   "summary": "NORKS whitelist wallet registration reopened until Sunday 11:59 PM ET. The mint is Monday, Nov 2 on OpenSea.",
-   "url": "https://x.com/oveck/status/2116563187239735331"
+   "handle": "@TheMrX",
+   "date": "2026-10-30T13:51:00Z",
+   "summary": "How big was the Binance hack? Four different answers in one night.",
+   "url": "https://x.com/TheMrX/status/2116165977717231686"
   },
   {
-   "project": "Push Chain",
-   "handle": "@PushChain",
-   "date": "2026-10-30T15:48:48Z",
-   "category": "Update",
-   "summary": "Week 52: the Phase 2 build is almost done, with a live demo next week. Marketplace compatibility issues are fixed.",
-   "url": "https://x.com/PushChain/status/2116195624467173865"
+   "handle": "@TheMrX",
+   "date": "2026-10-29T22:08:34Z",
+   "summary": "Breaking: Binance hit by what could be the biggest crypto hack ever.",
+   "url": "https://x.com/TheMrX/status/2115928807265964168"
   },
   {
-   "project": "Pharos Network",
-   "handle": "@pharos_network",
-   "date": "2026-10-31T01:58:48Z",
-   "category": "Update",
-   "summary": "$PROS liquid staking (stPROS) with Faroo is explained in a 3-minute clip.",
-   "url": "https://x.com/pharos_network/status/2116349136060776544"
+   "handle": "@TheMrX",
+   "date": "2026-10-29T18:56:23Z",
+   "summary": "One catalyst, three markets: how the Fed's hawkish hold hit BTC, SPY and gold.",
+   "url": "https://x.com/TheMrX/status/2115880441358250173"
   },
   {
-   "project": "Kaito AI",
-   "handle": "@KaitoAI",
-   "date": "2026-10-30T13:40:42Z",
-   "category": "Update",
-   "summary": "Kaito's list of the fastest-growing projects over the past week.",
-   "url": "https://x.com/KaitoAI/status/2116163385738084788"
+   "handle": "@TheMrX",
+   "date": "2026-10-29T01:34:53Z",
+   "summary": "GM CT: got a deal on @creator_wire, approval pending.",
+   "url": "https://x.com/TheMrX/status/2115618342509973897"
+  },
+  {
+   "handle": "@TheMrX",
+   "date": "2026-10-28T18:57:41Z",
+   "summary": "Agents are learning to do real work. What happens when their work is bad? How @termix_ai handles it.",
+   "url": "https://x.com/TheMrX/status/2115518384045748427"
+  },
+  {
+   "handle": "@TheMrX",
+   "date": "2026-10-28T15:33:36Z",
+   "summary": "Bullish, bearish or sideways: mapping $TSLA on Fed day with @tryquantio.",
+   "url": "https://x.com/TheMrX/status/2115467022402535430"
+  },
+  {
+   "handle": "@TheMrX",
+   "date": "2026-10-28T15:13:04Z",
+   "summary": "Collab with @nuloraio: 5 GTD spots for the community on a Monero-native launchpad.",
+   "url": "https://x.com/TheMrX/status/2115461857540763754"
+  },
+  {
+   "handle": "@TheMrX",
+   "date": "2026-10-28T13:48:26Z",
+   "summary": "Ripple and C2FO move invoice payments onto the XRP Ledger. Speed was never the scary part; trust was.",
+   "url": "https://x.com/TheMrX/status/2115440555568320735"
+  },
+  {
+   "handle": "@TheMrX",
+   "date": "2026-10-28T04:32:08Z",
+   "summary": "GM: @Zcash went live exactly 10 years ago today.",
+   "url": "https://x.com/TheMrX/status/2115300561209975288"
+  },
+  {
+   "handle": "@TheMrX",
+   "date": "2026-10-27T17:53:50Z",
+   "summary": "Off-radar pick: Morpho ($MORPHO) run through Quant Pro with 5 questions.",
+   "url": "https://x.com/TheMrX/status/2115139925876314330"
   }
  ]
 }
