@@ -51,6 +51,30 @@
    "name": "Enter the NFT giveaway",
    "points": 100,
    "url": "giveaway.html"
+  },
+  {
+   "id": "daily-quiz",
+   "name": "Daily quest: play Quiz Battle",
+   "points": 20,
+   "url": "quests.html"
+  },
+  {
+   "id": "daily-repost",
+   "name": "Daily quest: repost latest @HiAlphaTerminal post",
+   "points": 20,
+   "url": "quests.html"
+  },
+  {
+   "id": "weekly-top10",
+   "name": "Weekly quest: finish in the top 10",
+   "points": 150,
+   "url": "quests.html"
+  },
+  {
+   "id": "signup",
+   "name": "One-time quest: sign up",
+   "points": 25,
+   "url": "quests.html"
   }
  ],
  "bonuses": [

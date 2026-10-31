@@ -1,0 +1,105 @@
+{
+ "sections": [
+  {
+   "type": "daily",
+   "title": "Daily quests",
+   "reset": "Resets every day at 00:00 IST",
+   "quests": [
+    {
+     "id": "d-quiz",
+     "title": "Play Quiz Battle",
+     "description": "Play today's Alpha Quiz Battle round.",
+     "points": 20,
+     "action": "Play now",
+     "url": "quiz.html"
+    },
+    {
+     "id": "d-share",
+     "title": "Share your score on X",
+     "description": "Post your quiz score and tag @HiAlphaTerminal.",
+     "points": 25,
+     "action": "Share on X \u2197",
+     "url": "https://x.com/intent/post?text=Play%20Alpha%20Quiz%20Battle%20free%20and%20earn%20Alpha%20Points%20%40HiAlphaTerminal%20https%3A%2F%2Fmrxwhale.github.io%2Falpha-terminal%2F"
+    },
+    {
+     "id": "d-repost",
+     "title": "Repost the latest @HiAlphaTerminal post",
+     "description": "Repost today's newest post from @HiAlphaTerminal.",
+     "points": 20,
+     "action": "Open @HiAlphaTerminal \u2197",
+     "url": "https://x.com/HiAlphaTerminal"
+    }
+   ]
+  },
+  {
+   "type": "weekly",
+   "title": "Weekly quests",
+   "reset": "Resets every Monday at 00:00 IST",
+   "quests": [
+    {
+     "id": "w-top10",
+     "title": "Finish in the weekly top 10",
+     "description": "End the week in the top 10 of the Quiz Battle leaderboard.",
+     "points": 150,
+     "action": "View leaderboard",
+     "url": "quiz.html"
+    },
+    {
+     "id": "w-refer",
+     "title": "Refer a friend",
+     "description": "A friend plays and tags you when sharing their score.",
+     "points": 100,
+     "action": "Invite on X \u2197",
+     "url": "https://x.com/intent/post?text=Play%20Alpha%20Quiz%20Battle%20free%20and%20earn%20Alpha%20Points%20%40HiAlphaTerminal%20https%3A%2F%2Fmrxwhale.github.io%2Falpha-terminal%2F"
+    },
+    {
+     "id": "w-nft",
+     "title": "Enter the NFT giveaway",
+     "description": "Enter this week's NFT giveaway.",
+     "points": 100,
+     "action": "Enter giveaway",
+     "url": "giveaway.html"
+    }
+   ]
+  },
+  {
+   "type": "once",
+   "title": "One-time quests",
+   "reset": "Complete once",
+   "quests": [
+    {
+     "id": "o-follow-alpha",
+     "title": "Follow @HiAlphaTerminal",
+     "description": "Follow the official Alpha Terminal account.",
+     "points": 50,
+     "action": "Follow \u2197",
+     "url": "https://x.com/intent/follow?screen_name=HiAlphaTerminal"
+    },
+    {
+     "id": "o-follow-mrx",
+     "title": "Follow @TheMrX",
+     "description": "Follow the founder on X.",
+     "points": 50,
+     "action": "Follow \u2197",
+     "url": "https://x.com/intent/follow?screen_name=TheMrX"
+    },
+    {
+     "id": "o-join",
+     "title": "Make your join post",
+     "description": "Post \"I'm playing for $HAT on Alpha Terminal\" (required first step).",
+     "points": 50,
+     "action": "Join post",
+     "url": "quiz.html"
+    },
+    {
+     "id": "o-signup",
+     "title": "Sign up",
+     "description": "Register your X handle on Alpha Terminal.",
+     "points": 25,
+     "action": "Sign up",
+     "url": "quiz.html"
+    }
+   ]
+  }
+ ]
+}
