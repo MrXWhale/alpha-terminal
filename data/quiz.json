@@ -1,0 +1,322 @@
+[
+ {
+  "q": "What is the maximum supply of Bitcoin?",
+  "options": [
+   "21 million",
+   "100 million",
+   "18 million",
+   "Unlimited"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Who is the pseudonymous creator of Bitcoin?",
+  "options": [
+   "Satoshi Nakamoto",
+   "Vitalik Buterin",
+   "Hal Finney",
+   "Nick Szabo"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which consensus mechanism does Ethereum use since The Merge (2022)?",
+  "options": [
+   "Proof of Stake",
+   "Proof of Work",
+   "Proof of Authority",
+   "Proof of History"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Roughly how often does a Bitcoin halving occur?",
+  "options": [
+   "Every 210,000 blocks (~4 years)",
+   "Every year",
+   "Every 10 years",
+   "Every 100,000 blocks"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is a seed phrase?",
+  "options": [
+   "Words that can restore your wallet",
+   "A token's ticker",
+   "A gas fee setting",
+   "An exchange password"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What does 'gas' pay for on Ethereum?",
+  "options": [
+   "Computation and transaction execution",
+   "Mining hardware",
+   "Exchange listings",
+   "Wallet downloads"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which token standard is used for fungible tokens on Ethereum?",
+  "options": [
+   "ERC-20",
+   "ERC-721",
+   "BEP-2",
+   "TRC-10"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which token standard is most commonly used for NFTs on Ethereum?",
+  "options": [
+   "ERC-721",
+   "ERC-20",
+   "ERC-4626",
+   "ERC-1559"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is an airdrop in crypto?",
+  "options": [
+   "Free token distribution to wallets/users",
+   "A hardware wallet",
+   "A type of hack",
+   "A trading fee"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is a 'testnet'?",
+  "options": [
+   "A network for testing with valueless tokens",
+   "A centralized exchange",
+   "A Layer 1 mainnet",
+   "A stablecoin"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is the smallest unit of Bitcoin called?",
+  "options": [
+   "Satoshi",
+   "Wei",
+   "Gwei",
+   "Lamport"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is the smallest unit of Ether called?",
+  "options": [
+   "Wei",
+   "Satoshi",
+   "Finney",
+   "Shannon"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which of these is a Layer 2 network for Ethereum?",
+  "options": [
+   "Arbitrum",
+   "Solana",
+   "Cardano",
+   "Avalanche C-Chain"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What does 'DEX' stand for?",
+  "options": [
+   "Decentralized exchange",
+   "Digital exchange index",
+   "Data exchange",
+   "Developer extension"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which stablecoin is issued by Circle?",
+  "options": [
+   "USDC",
+   "USDT",
+   "DAI",
+   "FDUSD"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What does 'TGE' usually mean in airdrop announcements?",
+  "options": [
+   "Token Generation Event",
+   "Total Gas Estimate",
+   "Testnet Growth Epoch",
+   "Trade Guarantee Escrow"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is 'sybil' farming?",
+  "options": [
+   "Using many fake wallets to game a reward",
+   "Staking on validators",
+   "Buying NFTs early",
+   "Running a full node"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which blockchain uses 'lamports' as its smallest unit?",
+  "options": [
+   "Solana",
+   "Polkadot",
+   "Tron",
+   "Near"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is a 'rug pull'?",
+  "options": [
+   "Developers abandon a project and take the funds",
+   "A price surge",
+   "A token unlock",
+   "A network upgrade"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What does 'DYOR' mean?",
+  "options": [
+   "Do Your Own Research",
+   "Deposit Your Own Reserve",
+   "Don't Yield On Rewards",
+   "Decentralize Your Order Routing"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is 'slippage' in a swap?",
+  "options": [
+   "Difference between expected and executed price",
+   "The gas limit",
+   "A failed transaction",
+   "A token burn"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which wallet type keeps private keys offline?",
+  "options": [
+   "Hardware (cold) wallet",
+   "Browser extension wallet",
+   "Exchange account",
+   "Custodial hot wallet"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is a smart contract?",
+  "options": [
+   "Code on a blockchain that runs automatically",
+   "A legal paper signed online",
+   "An exchange KYC form",
+   "A mining pool rule"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "In which year was the Bitcoin genesis block mined?",
+  "options": [
+   "2009",
+   "2008",
+   "2011",
+   "2013"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Who is best known as a co-founder of Ethereum?",
+  "options": [
+   "Vitalik Buterin",
+   "Charles Hoskinson only",
+   "Changpeng Zhao",
+   "Brian Armstrong"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What does 'TVL' measure in DeFi?",
+  "options": [
+   "Total value locked in a protocol",
+   "Token voting limit",
+   "Transaction velocity level",
+   "Total validator load"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What does EIP-1559 introduced to Ethereum do with the base fee?",
+  "options": [
+   "Burns it",
+   "Gives it to miners",
+   "Sends it to the Foundation",
+   "Refunds it"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is 'staking'?",
+  "options": [
+   "Locking tokens to help secure a network for rewards",
+   "Selling tokens fast",
+   "Bridging tokens",
+   "Minting NFTs"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is a crypto 'bridge' used for?",
+  "options": [
+   "Moving assets between blockchains",
+   "Mining blocks",
+   "Storing seed phrases",
+   "Lending fiat"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "Which should you NEVER share with anyone?",
+  "options": [
+   "Your seed phrase / private key",
+   "Your public address",
+   "Your X handle",
+   "Your ENS name"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is 'KYC'?",
+  "options": [
+   "Know Your Customer identity checks",
+   "Keep Your Coins",
+   "Key Yield Contract",
+   "Kernel Yield Chain"
+  ],
+  "answer": 0
+ },
+ {
+  "q": "What is an oracle in blockchain?",
+  "options": [
+   "A service that brings off-chain data on-chain",
+   "A mining rig",
+   "A wallet type",
+   "A governance token"
+  ],
+  "answer": 0
+ }
+]

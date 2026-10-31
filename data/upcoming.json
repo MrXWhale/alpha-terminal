@@ -1,0 +1,254 @@
+{
+ "updated": "2026-11-01",
+ "tokens": [
+  {
+   "name": "Alpha Terminal",
+   "ticker": "$HAT",
+   "type": "Token",
+   "chain": "TBA",
+   "date": "",
+   "status": "Upcoming",
+   "featured": true,
+   "desc": "Alpha Points convert to $HAT at TGE. 1% of supply planned for players. Plans may change.",
+   "links": {
+    "website": "roadmap.html",
+    "x": "https://x.com/HiAlphaTerminal"
+   },
+   "source": "roadmap.html",
+   "roadmap_source": "roadmap.html",
+   "roadmap": [
+    {
+     "when": "TBA",
+     "title": "Phase 1: Launch",
+     "status": "in progress"
+    },
+    {
+     "when": "TBA",
+     "title": "Phase 2: Alpha Points Season 1",
+     "status": "upcoming"
+    },
+    {
+     "when": "TBA",
+     "title": "Phase 3: Growth",
+     "status": "upcoming"
+    },
+    {
+     "when": "TBA",
+     "title": "Phase 4: Season end & snapshot",
+     "status": "upcoming"
+    },
+    {
+     "when": "TBA",
+     "title": "Phase 5: $HAT TGE",
+     "status": "upcoming"
+    }
+   ],
+   "referralUrl": "",
+   "referralCode": ""
+  },
+  {
+   "name": "Fraction AI",
+   "ticker": "$FRAC",
+   "type": "Token",
+   "chain": "Ethereum (ERC-20)",
+   "date": "2026-11-11",
+   "status": "Upcoming",
+   "featured": false,
+   "desc": "AI agents that compete, train and trade onchain. Its MiCA white paper sets admission to trading from 11 Nov 2026; the team has not confirmed the date on X yet.",
+   "links": {
+    "website": "https://fractionai.xyz",
+    "x": ""
+   },
+   "source": "https://fractionai.xyz/MICAwhitepaper",
+   "roadmap_source": "https://fraction-ai.gitbook.io/fraction-ai-product-docs/ecosystem/roadmap",
+   "roadmap": [
+    {
+     "when": "Q2 2025",
+     "title": "Mainnet on Base, Fractals rewards, smart wallets",
+     "status": "done"
+    },
+    {
+     "when": "Q3 2025",
+     "title": "Polymarket integration, FAPs, evaluation network testnet",
+     "status": "done"
+    },
+    {
+     "when": "Q3 2025 (moved)",
+     "title": "TGE & token distribution, now planned for 11 Nov 2026",
+     "status": "upcoming"
+    },
+    {
+     "when": "Q4 2025 & beyond",
+     "title": "Trustless fine-tuning, agent marketplace, DAO governance",
+     "status": "upcoming"
+    }
+   ],
+   "referralUrl": "",
+   "referralCode": ""
+  },
+  {
+   "name": "Variational",
+   "ticker": "$VAR",
+   "type": "Token",
+   "chain": "TBA",
+   "date": "",
+   "dateLabel": "Q4 2026",
+   "status": "Upcoming",
+   "featured": false,
+   "desc": "Onchain derivatives (Omni). 32% genesis airdrop to points holders, fully unlocked at TGE.",
+   "links": {
+    "website": "https://variational.io",
+    "x": "https://x.com/variational_io"
+   },
+   "source": "https://docs.variational.io/token/usdvar",
+   "roadmap_source": "https://docs.variational.io/getting-started/roadmap",
+   "roadmap": [
+    {
+     "when": "Q1 2025",
+     "title": "Omni private mainnet launch",
+     "status": "done"
+    },
+    {
+     "when": "Q4 2025",
+     "title": "Omni points program launched",
+     "status": "done"
+    },
+    {
+     "when": "Before TGE",
+     "title": "Omni public mainnet, swaps, trading API",
+     "status": "upcoming"
+    },
+    {
+     "when": "Q4 2026",
+     "title": "$VAR launch",
+     "status": "upcoming"
+    },
+    {
+     "when": "Undated",
+     "title": "Variational Pro, OLP community vault",
+     "status": "upcoming"
+    }
+   ],
+   "referralUrl": "",
+   "referralCode": ""
+  },
+  {
+   "name": "Agents Game",
+   "ticker": "$EHI",
+   "type": "Token",
+   "chain": "Base",
+   "date": "2026-11-23",
+   "status": "Upcoming",
+   "featured": false,
+   "desc": "Onchain agents game. $EHI TGE on Base per the official calendar.",
+   "links": {
+    "website": "https://agents.game",
+    "x": ""
+   },
+   "source": "https://agents.game/timeline",
+   "roadmap_source": "https://agents.game/timeline",
+   "roadmap": [
+    {
+     "when": "Nov 11, 2026",
+     "title": "Qualifier: The Signal Index",
+     "status": "upcoming"
+    },
+    {
+     "when": "Nov 20, 2026",
+     "title": "Genesis Auction",
+     "status": "upcoming"
+    },
+    {
+     "when": "Nov 23, 2026",
+     "title": "TGE: $EHI on Base",
+     "status": "upcoming"
+    },
+    {
+     "when": "Dec 10, 2026",
+     "title": "Season 0 opens",
+     "status": "upcoming"
+    },
+    {
+     "when": "Dec 1 yearly 2026-2029",
+     "title": "Scheduled $EHI burns",
+     "status": "upcoming"
+    }
+   ],
+   "referralUrl": "",
+   "referralCode": ""
+  }
+ ],
+ "nfts": [
+  {
+   "name": "Agents Game Genesis Agents",
+   "ticker": "128 Genesis Agents",
+   "type": "NFT",
+   "chain": "Base",
+   "date": "2026-11-20T14:00:00Z",
+   "status": "Upcoming",
+   "featured": false,
+   "desc": "Genesis Auction (Dutch auction). The top 110 from the Nov 11 qualifier get the whitelist.",
+   "links": {
+    "website": "https://agents.game/timeline",
+    "x": ""
+   },
+   "source": "https://agents.game/timeline",
+   "roadmap_source": "https://agents.game/timeline",
+   "roadmap": [
+    {
+     "when": "Nov 11, 2026",
+     "title": "Free qualifier for whitelist",
+     "status": "upcoming"
+    },
+    {
+     "when": "Nov 20, 2026",
+     "title": "Genesis Auction",
+     "status": "upcoming"
+    },
+    {
+     "when": "Post-mint",
+     "title": "Rarity reveal (Chainlink VRF)",
+     "status": "upcoming"
+    }
+   ],
+   "referralUrl": "",
+   "referralCode": ""
+  },
+  {
+   "name": "Replica",
+   "ticker": "Replica by Renya",
+   "type": "NFT",
+   "chain": "Ethereum",
+   "date": "2026-11-01T13:00:00Z",
+   "status": "Upcoming",
+   "featured": false,
+   "desc": "2,000 pictures based on artist Renya's styles. Free allowlist, then a 0.003 ETH public mint.",
+   "links": {
+    "website": "",
+    "x": "https://x.com/cryptorenya"
+   },
+   "source": "https://nxtdrop.app/upcoming-nft-drops",
+   "roadmap": [],
+   "referralUrl": "",
+   "referralCode": ""
+  },
+  {
+   "name": "NORKS",
+   "ticker": "NORKS by Oveck",
+   "type": "NFT",
+   "chain": "Ethereum",
+   "date": "2026-11-02T17:00:00Z",
+   "status": "Upcoming",
+   "featured": false,
+   "desc": "710 hand-made characters by NYC artist Oveck.",
+   "links": {
+    "website": "",
+    "x": "https://x.com/oveck"
+   },
+   "source": "https://nftstack.net/mints",
+   "roadmap": [],
+   "referralUrl": "",
+   "referralCode": ""
+  }
+ ]
+}

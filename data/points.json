@@ -1,0 +1,68 @@
+{
+ "quizDivisor": 10,
+ "quizGamesPerDay": 1,
+ "sponsoredMultiplier": 2,
+ "weeklyTop3Bonus": [
+  500,
+  300,
+  200
+ ],
+ "seasonWeeks": 8,
+ "hatAllocationPercent": 1,
+ "tasks": [
+  {
+   "id": "join-post",
+   "name": "Join post: \"I'm playing for $HAT on Alpha Terminal\" (required first step)",
+   "points": 50,
+   "url": "quiz.html"
+  },
+  {
+   "id": "follow-alpha",
+   "name": "Follow @HiAlphaTerminal",
+   "points": 50,
+   "url": "https://x.com/intent/follow?screen_name=HiAlphaTerminal"
+  },
+  {
+   "id": "follow-mrx",
+   "name": "Follow @TheMrX",
+   "points": 50,
+   "url": "https://x.com/intent/follow?screen_name=TheMrX"
+  },
+  {
+   "id": "repost-launch",
+   "name": "Repost the launch post",
+   "points": 50,
+   "url": "https://x.com/HiAlphaTerminal"
+  },
+  {
+   "id": "share-score",
+   "name": "Share your quiz score on X (once a day)",
+   "points": 25,
+   "url": "quiz.html"
+  },
+  {
+   "id": "refer",
+   "name": "Refer a friend (they tag you when sharing their score)",
+   "points": 100,
+   "url": "https://x.com/intent/post?text=Play%20Alpha%20Quiz%20Battle%20free%20and%20earn%20Alpha%20Points%20%40HiAlphaTerminal"
+  },
+  {
+   "id": "nft-giveaway",
+   "name": "Enter the NFT giveaway",
+   "points": 100,
+   "url": "giveaway.html"
+  }
+ ],
+ "bonuses": [
+  {
+   "name": "NFT giveaway winner",
+   "points": 1000
+  }
+ ],
+ "eligibility": {
+  "minFollowers": 1000,
+  "minAccountAgeMonths": 3,
+  "oneAccountPerPerson": true,
+  "text": "X account must have at least 1,000 followers and be at least 3 months old. One X account per person. Farming, bots or multiple accounts mean losing all points and $HAT eligibility."
+ }
+}

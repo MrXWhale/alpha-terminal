@@ -1,0 +1,24 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NFT Giveaway · Alpha Terminal</title><link rel="icon" href="assets/logo.jpg"><link rel="stylesheet" href="style.css"></head><body><header><div class="brand"><img src="assets/logo.jpg" alt="Alpha Terminal logo" class="logoimg"><span id="brand">Alpha Terminal</span></div><nav class="nav"><a href="index.html">Airdrops</a><a href="quiz.html">Quiz Battle</a><a href="sponsor.html">Sponsor a Round</a><a href="giveaway.html" class="on">NFT Giveaway</a><a href="points.html">Alpha Points</a><a href="roadmap.html">Roadmap</a><a href="upcoming.html">Upcoming</a><a href="news.html">News</a></nav></header>
+<h1 class="ptitle"><span class="prompt">&gt;_</span> NFT Giveaway: <span id="gt">TBA</span></h1><p class="tag">🎁 Giveaway entrants also earn <a href="points.html">Alpha Points</a> (free, no cash value today) — claim the "Enter the NFT giveaway" task on the points page.</p>
+<div class="grid">
+<div class="card"><img id="gimg" alt="NFT" style="display:none;max-width:100%;border-radius:10px"><h3 id="gcol">Collection: TBA</h3><p class="meta" id="gprize">Prize: TBA</p><p class="meta" id="gwin">Winners: TBA</p><p class="meta">Status: <b id="gstat">TBA</b></p><p class="meta">Ends in: <b id="gcd">TBA</b></p><div class="links"><a class="btn" id="genter" target="_blank" rel="noopener" href="https://x.com/HiAlphaTerminal">Enter on X ↗</a></div></div>
+<div class="card"><h3>How to enter</h3><ol id="gsteps" class="meta"></ol></div>
+</div>
+<section id="gwinners" class="panel" style="display:none"><h2>🏆 Winners</h2><ul id="gwl" class="meta"></ul></section>
+<div class="disclaimer">🛡️ Free to enter. We never ask for seed phrases, private keys or payments, and never DM you first to "claim". Winners are only announced by <a style="color:inherit;font-weight:700" href="https://x.com/HiAlphaTerminal" target="_blank" rel="noopener">@HiAlphaTerminal</a>.</div>
+<footer>Follow on X: <a href="https://x.com/HiAlphaTerminal" target="_blank" rel="noopener">@HiAlphaTerminal</a> · <a href="https://x.com/TheMrX" target="_blank" rel="noopener">@TheMrX</a><br>Alpha Terminal · Free to enter. No entry fees, no wallet connection.<br><small>Some links are referral links; Alpha Terminal may earn from sign-ups at no cost to you.</small></footer>
+<script>
+const $=id=>document.getElementById(id),esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+fetch('data/giveaway.json').then(r=>r.json()).then(g=>{
+$('gt').textContent=g.title||'TBA';$('gcol').textContent='Collection: '+(g.collection||'TBA');
+$('gprize').textContent='Prize: '+(g.prize||'TBA');$('gwin').textContent='Winners: '+(g.winners_count||'TBA');
+if(g.image){$('gimg').src=g.image;$('gimg').style.display='block';}
+$('gsteps').innerHTML=(g.steps||[]).map(s=>'<li>'+esc(s)+'</li>').join('');
+if(g.post_url)$('genter').href=g.post_url;
+const w=g.winners||[];if(w.length){$('gwl').innerHTML=w.map(x=>'<li>'+esc(x)+'</li>').join('');$('gwinners').style.display='block';}
+const end=g.end_date?new Date(g.end_date):null;let st=g.status||'TBA';
+function tick(){if(!end||isNaN(end)){$('gcd').textContent='TBA';$('gstat').textContent=st;return;}
+let d=end-Date.now();if(d<=0){$('gcd').textContent='Ended';$('gstat').textContent='ended';$('genter').style.display='none';return;}
+const s=Math.floor(d/1e3);$('gcd').textContent=Math.floor(s/86400)+'d '+Math.floor(s%86400/3600)+'h '+Math.floor(s%3600/60)+'m '+s%60+'s';$('gstat').textContent=st;setTimeout(tick,1000);}
+tick();}).catch(()=>{$('gcd').textContent='TBA';});
+</script></body></html>

@@ -1,0 +1,298 @@
+[
+ {
+  "name": "Push Chain – Season 3 Rewards",
+  "chain": "Push Chain",
+  "category": "testnet",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "",
+  "reward": "Points & Rare Passes; tokenomics propose 10% of $PC supply for airdrops (per airdrop.promo)",
+  "summary": "Final incentivized testnet season before mainnet. Points come from on-chain use of universal apps.",
+  "steps": [
+   "Open the Push Chain rewards portal and log in with socials or a wallet",
+   "Complete on-chain quests (swap, LP, play, predict) to earn XP",
+   "Hit the daily Spin 2 Win and level up to collect Rare Passes",
+   "Optional: refer friends with your link"
+  ],
+  "url": "https://portal.push.org/",
+  "source": "https://push.org/blog/season-3-early-access-is-live/",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Quip Points",
+  "chain": "Quip Network",
+  "category": "points",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "",
+  "reward": "QP convert to $QUIP at TGE by leaderboard position; 10% of initial supply for community programs",
+  "summary": "Points for using the quantum-safe wallet, QuipSwap, and running nodes.",
+  "steps": [
+   "Link your Quip wallet's parent wallet to X and follow @quipnetwork",
+   "Sign in daily at accounts.quip.network (up to 5 QP/day)",
+   "Swap on QuipSwap (5 QP per swap, up to 15/day)",
+   "Optional: run a node or refer friends"
+  ],
+  "url": "https://points.quip.network/",
+  "source": "https://points.quip.network/",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Quip Quest & Mindshare campaigns",
+  "chain": "Quip Network",
+  "category": "quest",
+  "status": "live",
+  "effort": "Low",
+  "deadline": "",
+  "reward": "Separate $QUIP allocation, paid at TGE",
+  "summary": "Older Quip campaigns still listed as Live, each with its own leaderboard.",
+  "steps": [
+   "Open points.quip.network and scroll to 'All points campaigns'",
+   "Join the Quest and/or Mindshare campaign from its own site"
+  ],
+  "url": "https://points.quip.network/",
+  "source": "https://points.quip.network/",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Vearl – Public Testnet #1 (mining)",
+  "chain": "Vearl",
+  "category": "testnet",
+  "status": "live",
+  "effort": "High",
+  "deadline": "",
+  "reward": "Team commits 0.7% of max mainnet supply to eligible miners of this testnet, by points",
+  "summary": "Testnet opened Oct 23, 2026 16:00 UTC (21:30 IST). Points come only from blocks you mine; be active on 3+ different days and register your address.",
+  "steps": [
+   "Install the Vearl miner from the official participate page",
+   "Mine with your own address on at least 3 different days",
+   "Register your address with a signature",
+   "Never share your 24 words – the team will never ask"
+  ],
+  "url": "https://vearl.org/participate/",
+  "source": "https://vearl.org/participate/",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Kaito Studio – XO Market Katalyst",
+  "chain": "",
+  "category": "kaito",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "",
+  "reward": "$20,000 USDC for the top 50 creators",
+  "summary": "Creator campaign around the XO 2.0 launch and user-generated prediction markets. Kaito Studio is selective, so you have to apply.",
+  "steps": [
+   "Apply as a creator on Kaito Studio",
+   "Open the XO Market campaign and read the terms",
+   "Create content and submit links in Kaito Studio"
+  ],
+  "url": "https://www.kaito.ai/",
+  "source": "https://twiscan.com/en/x/KaitoStudio_/2102049096970473534",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Kaito Studio – Axis Robotics Epoch 2",
+  "chain": "",
+  "category": "kaito",
+  "status": "ended",
+  "effort": "Medium",
+  "deadline": "2026-10-18",
+  "reward": "",
+  "summary": "First token-based Katalyst campaign. Epoch 2 snapshot was Oct 18, 12:00 UTC. Watch for $AXIS TGE news.",
+  "steps": [
+   "Ended – check Kaito Studio for results"
+  ],
+  "url": "https://www.kaito.ai/",
+  "source": "https://nitter.jaydenha.uk/KaitoStudio_/status/2111092800481878495",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Pharos Network – PROS Claim",
+  "chain": "Pharos",
+  "category": "airdrop",
+  "status": "ended",
+  "effort": "Low",
+  "deadline": "2026-10-25",
+  "reward": "PROS token claim",
+  "summary": "Claim closed Oct 25, 2026 11:00 UTC per the official claim FAQ (an Oct 13 X post said Oct 31, but the site closed on Oct 25). Any site still offering a PROS claim is a scam.",
+  "steps": [
+   "Ended – unclaimed PROS returned to Pharos"
+  ],
+  "url": "https://claim.pharos.xyz",
+  "source": "https://claim.pharos.xyz/faqs",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "PickleChain – Testnet & Season 0 Points",
+  "chain": "PickleChain",
+  "category": "testnet",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "",
+  "reward": "",
+  "summary": "New L1 from the AlphBanX team. Public testnet since Sep 25, 2026; Season 0 points since Sep 26. An aggregator lists Dec 1 as the end (not officially confirmed).",
+  "steps": [
+   "Find the official testnet via PickleChain's official channels",
+   "Use the testnet and collect Season 0 points"
+  ],
+  "url": "",
+  "source": "https://sndct.app/airdrops/1292088470834520064/",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Kaito Studio – Primus Labs Epoch 2",
+  "chain": "",
+  "category": "kaito",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "2026-11-21",
+  "reward": "0.3% of $PRIM supply (0.24% to creators, 450 paid spots across Global/Chinese/Korean regions)",
+  "summary": "Epoch 2 runs Oct 23 – Nov 21, 2026 (UTC). Top 4 posts per epoch count; rewards paid once at the end.",
+  "steps": [
+   "Apply as a creator on Kaito Studio",
+   "Open the campaign and read the brief and terms",
+   "Post content and submit links in Kaito Studio"
+  ],
+  "url": "https://www.kaito.ai/",
+  "source": "https://www.kucoin.com/news/insight/BNB/6adcfbf8b1e8a700077322fe",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Kaito Studio – TermiX Epoch 3",
+  "chain": "",
+  "category": "kaito",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "",
+  "reward": "0.30% of total token supply across 450 paid spots (per creator post)",
+  "summary": "Final epoch opened Oct 24, 2026; winners announced Nov 23. Everyone is re-ranked at the end.",
+  "steps": [
+   "Apply as a creator on Kaito Studio",
+   "Open the campaign and read the brief and terms",
+   "Post content and submit links in Kaito Studio"
+  ],
+  "url": "https://www.kaito.ai/",
+  "source": "https://www.kucoin.com/news/community/DASH/6adc740ab1e8a700077207fb",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Kaito Studio – Bagel",
+  "chain": "",
+  "category": "kaito",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "2026-11-21",
+  "reward": "8,800 USDC",
+  "summary": "Creator campaign for Bagel, a mobile app for Polymarket markets with one-tap copy of top predictors.",
+  "steps": [
+   "Apply as a creator on Kaito Studio",
+   "Open the campaign and read the brief and terms",
+   "Post content and submit links in Kaito Studio"
+  ],
+  "url": "https://www.kaito.ai/",
+  "source": "https://teapawt.org/KaitoStudio_/status/2112861604467634329",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Kaito Studio – Starknet",
+  "chain": "",
+  "category": "kaito",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "2026-11-09",
+  "reward": "$8,000",
+  "summary": "Starknet creator campaign listed by Kaito Studio on Oct 22, 2026.",
+  "steps": [
+   "Apply as a creator on Kaito Studio",
+   "Open the campaign and read the brief and terms",
+   "Post content and submit links in Kaito Studio"
+  ],
+  "url": "https://www.kaito.ai/",
+  "source": "https://teapawt.net/KaitoStudio_/status/2113214737391718648",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Fermi Trade – ALIEN Points Season 1",
+  "chain": "Solana",
+  "category": "points",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "2027-05-02",
+  "reward": "",
+  "summary": "Pre-deposit period (FLP vault only) since Oct 20, 2026; Season 1 with all categories starts Nov 1, 2026 and runs 26 weekly epochs.",
+  "steps": [
+   "Open Fermi Trade and read the ALIEN Points docs",
+   "Deposit in the FLP vault during pre-deposit",
+   "From Nov 1: trade, quote two-sided orders, hold open interest, refer friends",
+   "Claim points in each published claim window"
+  ],
+  "url": "https://testnet.fermi.trade/points/docs",
+  "source": "https://testnet.fermi.trade/points/docs",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Arcus Points – Season 1",
+  "chain": "",
+  "category": "points",
+  "status": "live",
+  "effort": "Medium",
+  "deadline": "",
+  "reward": "250K points distributed weekly",
+  "summary": "Trading points program; Season 1 began Oct 1, 2026. Program ends no later than end of H1 2027.",
+  "steps": [
+   "Connect your wallet on the Arcus Points Dashboard",
+   "Trade on Arcus; points are distributed Wednesdays 3PM ET"
+  ],
+  "url": "https://arcus.xyz/blog/introducing-arcus-points",
+  "source": "https://arcus.xyz/blog/introducing-arcus-points",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ },
+ {
+  "name": "Pheasant Points – Season 2",
+  "chain": "Pheasant Network",
+  "category": "points",
+  "status": "live",
+  "effort": "Low",
+  "deadline": "",
+  "reward": "",
+  "summary": "Season 2 began Oct 19, 2026 with separate leaderboards; transaction volume now weighs more. Points are non-monetary.",
+  "steps": [
+   "Use Pheasant Network for eligible on-chain activity",
+   "Complete bonus tasks and community contributions"
+  ],
+  "url": "https://home.pheasant.network/library/pheasant-points-season2",
+  "source": "https://home.pheasant.network/library/pheasant-points-season2",
+  "featured": false,
+  "referralUrl": "",
+  "referralCode": ""
+ }
+]

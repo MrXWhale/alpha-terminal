@@ -1,0 +1,63 @@
+{
+ "note": "Plans, timing and allocation may change. Final details will be announced only by @HiAlphaTerminal. Alpha Points have no cash value today. Not financial advice.",
+ "phases": [
+  {
+   "phase": "Phase 1",
+   "title": "Launch",
+   "status": "in progress",
+   "timing": "TBA",
+   "items": [
+    "Alpha Terminal site live with airdrop & campaign tracker",
+    "Alpha Quiz Battle (free, 1 play per X username per day)",
+    "NFT giveaways",
+    "Sponsor a Round"
+   ]
+  },
+  {
+   "phase": "Phase 2",
+   "title": "Alpha Points Season 1",
+   "status": "upcoming",
+   "timing": "TBA",
+   "items": [
+    "Join Alpha Points with your X username + email (no login)",
+    "Earn points from quiz, tasks, referrals and NFT giveaways",
+    "~8-week season",
+    "Weekly official leaderboard updates",
+    "Anti-farming rules: one X account per person, at least 1,000 followers, account at least 3 months old"
+   ]
+  },
+  {
+   "phase": "Phase 3",
+   "title": "Growth",
+   "status": "upcoming",
+   "timing": "TBA",
+   "items": [
+    "Sign in with X",
+    "Live shared leaderboard",
+    "Sponsored rounds with partner projects",
+    "Featured listings"
+   ]
+  },
+  {
+   "phase": "Phase 4",
+   "title": "Season end & snapshot",
+   "status": "upcoming",
+   "timing": "TBA",
+   "items": [
+    "Points finalized",
+    "Final leaderboard published",
+    "Eligibility checks"
+   ]
+  },
+  {
+   "phase": "Phase 5",
+   "title": "$HAT TGE",
+   "status": "upcoming",
+   "timing": "TBA",
+   "items": [
+    "Alpha Points convert to $HAT",
+    "A planned 1% of $HAT supply distributed to Alpha Points holders by their share of total points"
+   ]
+  }
+ ]
+}
